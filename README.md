@@ -9,4 +9,4 @@ Example homepage for a winter mountain climibg website. It demonstrates styling.
 
 --How to run
 
-To run the applicaiton navigate to settings and click pages row (on left hand side). Then click the "your site is live at" link.
+To run the applicaiton navigate to settings and click the pages row (on left hand side). Then click the "your site is live at" link.
